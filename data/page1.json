@@ -1,0 +1,13 @@
+{
+    "navbar": true,
+    "simpleSplash": true,
+    "splash": false,
+    "myRoom": false,
+    "gallery": false,
+    "about": true,
+    "education": true,
+    "experience": true,
+    "downloads": true,
+    "stats": true,
+    "footer": true
+}
