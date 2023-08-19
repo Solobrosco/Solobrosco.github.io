@@ -32,27 +32,3 @@ h1 {
 p{
     font-weight: 1;
 }
-
-.spinner{
-    display: inline-block;
-    height: 2em;
-    width: 2em;
-    border: 10px solid;
-    border-top-color: #4d2aff;
-    border-radius: 50%;
-}
-
-@keyframes logo-spin {
-from {
-    transform: rotate(0deg);
-}
-to {
-    transform: rotate(360deg);
-}
-}
-
-@media (prefers-reduced-motion: no-preference) {
-a:nth-of-type(2) .spinner {
-    animation: logo-spin infinite linear 20s;
-}
-}
